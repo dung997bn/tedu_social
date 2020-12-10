@@ -1,11 +1,11 @@
 swagger: '2.0'
 info:
-  description: 'TEDU Social API docs'
+  description: 'Social API docs'
   version: '1.0.0'
-  title: 'TEDU Social'
-  termOfService: 'http://tedu.com.vn'
+  title: 'Social'
+  termOfService: 'https://github.com/dung997bn/tedu_social'
   contact:
-    email: 'tedu.international@gmail.com'
+    email: 'phaichisophan@gmail.com'
   license:
     name: 'MIT'
     url: 'https://opensource.org/licenses/MIT'

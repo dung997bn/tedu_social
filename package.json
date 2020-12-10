@@ -1,7 +1,7 @@
 {
   "name": "tedu_social",
   "version": "1.0.0",
-  "description": "A mini social network for TEDU Community",
+  "description": "A mini social network",
   "main": "src/server.ts",
   "author": "Toan Bach",
   "license": "MIT",
